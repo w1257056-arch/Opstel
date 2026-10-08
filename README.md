@@ -99,4 +99,4 @@
 Скачай `source.lua` или подключи через `loadstring`:
 
 ```lua
-local Opstel = loadstring(game:HttpGet("https://raw.githubusercontent.com/ТВОЙ_НИК/Opstel/main/source.lua"))()
+local Opstel = loadstring(game:HttpGet("https://raw.githubusercontent.com/w1257056-arch/Opstel/main/source.lua"))()
